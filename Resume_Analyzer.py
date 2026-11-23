@@ -113,7 +113,6 @@ def ParseResume(Resum):
     #print(json_data1)
     return json_data1
 
-#file_path = r"C:\Users\MIDHILESH\Midhilesh_with_AI\WEE1\Mini_Project1\Midhilesh_Boga_PL_SQL_Developer_Resume.docx"
 # Extract document content
 def Resume_Text(document_text):
     
